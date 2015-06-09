@@ -1,0 +1,25 @@
+{
+	"name": "qnap",
+	"types": ["pack"],
+	"version": "1.4",
+	"homepage": "https://github.com/claneys/pack-qnap",
+	"author": "Forlot Romain",
+	"description": "QNAP NAS disks and temperature monitoring",
+	"contributors": [
+	  {
+		"name": "Forlot Romain",
+		"email": "rforlot@yahoo.com"
+	  }
+	],
+	"repository": "https://github.com/claneys/pack-qnap",
+	"keywords": [
+	  "pack",
+	  "qnap",
+	  "nas",
+	  "disks"
+	],
+	"dependencies": {
+	  "shinken": ">=1.4"
+	},
+	"license": "AGPL"
+}
